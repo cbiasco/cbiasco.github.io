@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>code bias</title>
+    <title>c(aleb) bias(co)</title>
     <link>https://cbias.co/</link>
-    <description>Recent content on code bias</description>
+    <description>Recent content on c(aleb) bias(co)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@cbias.co (Caleb Biasco)</managingEditor>
@@ -13,9 +13,9 @@
     <atom:link href="https://cbias.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting fresh</title>
-      <link>https://cbias.co/starting-fresh/</link>
+      <link>https://cbias.co/posts/starting-fresh/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate><author>mail@cbias.co (Caleb Biasco)</author>
-      <guid>https://cbias.co/starting-fresh/</guid>
+      <guid>https://cbias.co/posts/starting-fresh/</guid>
       <description>This is probably my first real post to any blog anywhere! I wanted to keep it short and sweet, but I tend to go a little overboard when it comes to writing, so please bear with me (this pun made more sense when I thought I&amp;rsquo;d use Bear Blog for my host!).
 I&amp;rsquo;m a graphics engineer who has spent most of his career in tech so far, where I had the convenient (but totally illegitimate) excuse of &amp;ldquo;the company doesn&amp;rsquo;t allow its employees to publish personal software projects online&amp;rdquo; to procrastinate on anything non-work related.</description>
       <content:encoded><![CDATA[<p>This is probably my first real post to any blog anywhere! I wanted to keep it
@@ -31,7 +31,7 @@ ever to break my laziness streak! So I hope to mostly talk about code projects
 here, probably related to graphics and games, but one of the best parts of doing
 something new is that you can go in any direction, and it will still feel new,
 so who knows how this will turn out!</p>
-<figure><img src="/starting-fresh/website.png"
+<figure><img src="/posts/starting-fresh/website.png"
     alt="An old website of mine using https://getbootstrap.com/"><figcaption>
       <p>An old website of mine using <a href="https://getbootstrap.com/">https://getbootstrap.com/</a></p>
     </figcaption>
@@ -126,6 +126,20 @@ Hugo also seem like the best long-term option.</p>
 <p>That&rsquo;s it! Hopefully I stick with this whole blogging thing, but in case I
 don&rsquo;t, there are plenty of folks who do just fine in filling the void of 1s and
 0s that is the internet &ndash; like those mentioned above!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>now</title>
+      <link>https://cbias.co/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mail@cbias.co (Caleb Biasco)</author>
+      <guid>https://cbias.co/now/</guid>
+      <description>This is a page that I&amp;rsquo;ll update with whatever I&amp;rsquo;m thinking about or doing recently, as shown by nownownow.com.
+Mostly just still settling in Germany after moving here from California. I mean, I&amp;rsquo;ve &amp;ldquo;settled in&amp;rdquo;, but now I&amp;rsquo;ve gotten to the part where I actually have to do interesting things with my time, and that&amp;rsquo;s the part that always stumps me&amp;hellip;
+Apart from that, I&amp;rsquo;m obviously giving this whole blogging thing a try!</description>
+      <content:encoded><![CDATA[<p>This is a page that I&rsquo;ll update with whatever I&rsquo;m thinking about or doing recently, as shown by <a href="https://nownownow.com/about">nownownow.com</a>.</p>
+<hr>
+<p>Mostly just still settling in Germany after moving here from California. I mean, I&rsquo;ve &ldquo;settled in&rdquo;, but now I&rsquo;ve gotten to the part where I actually have to do interesting things with my time, and that&rsquo;s the part that always stumps me&hellip;</p>
+<p>Apart from that, I&rsquo;m obviously giving this whole blogging thing a try! The pessimist in me knows that it will only entertain me for a week or two before I find a convenient excuse to shirk the whole thing off, but the optimist in me likes to smile blankly and let things go in one ear and out the other. Who knows who will win!</p>
 ]]></content:encoded>
     </item>
   </channel>

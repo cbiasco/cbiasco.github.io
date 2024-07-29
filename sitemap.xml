@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cbias.co/blog/blogs/</loc>
-    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cbias.co/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cbias.co/blog/</loc>
+    <loc>https://cbias.co/post/blogs/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cbias.co/starting-fresh/</loc>
+    <loc>https://cbias.co/posts/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cbias.co/posts/starting-fresh/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cbias.co/now/</loc>
   </url>
 </urlset>
